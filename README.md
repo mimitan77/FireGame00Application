@@ -10,12 +10,12 @@ VisualStudio2005で作ったものです。
 
 ## 配布したZIPそのもの
 
-https://github.com/mimitan77/FireGame00Application/blob/master/FireGame00Application.zip
+[FireGame00Application.zip](/FireGame00Application.zip)
 
 ## 中身のEXEとか
 
-https://github.com/mimitan77/FireGame00Application/blob/master/FireGame00Application/bin/Release
+[FireGame00Application/bin/Release](/FireGame00Application/bin/Release)
 
 ## 使い方
 
-https://github.com/mimitan77/FireGame00Application/blob/master/FireGame00Application/使用方法.txt
+[FireGame00Application/使用方法.txt](/FireGame00Application/使用方法.txt)
